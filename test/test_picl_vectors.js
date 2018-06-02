@@ -1,6 +1,6 @@
 const vows = require('vows'),
       assert = require('assert'),
-      bignum = require('bignum'),
+      bignum = require('../lib/bignum'),
       srp = require('../lib/srp');
 
 /*
